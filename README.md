@@ -4,7 +4,7 @@ My name is Aninda, and I'm a Biostatistics Ph.D. candidate at the Medical Colleg
  
  🔭 I’m currently working on network modeling for my dissertation and collaborating with pediatric hematologists and epidemiologists to optimize treatment protocols by
      analyzing Electronic Health Record (EHR) data.
-- 🌱 I’m currently developing a Dynamic Bayesian hierarchical model leveraging efficient Metropolis-Hastings and Gibbs-sampling algorithm that can flexibly relate dynamic brain networks to individual traits.
+- 🌱 I’m currently developing a Bayesian hierarchical model leveraging efficient Metropolis-Hastings and Gibbs-sampling algorithm that can flexibly relate dynamic brain networks to individual traits.
 - ⚡ Fun fact: I can make some mostly accurate animal sounds...:D
 
 <!--
