@@ -1,9 +1,11 @@
 ## Hi there 👋
+
+My name is Aninda, and I'm a Biostatistics Ph.D. candidate at the Medical College of Wisconsin, interested in developing statistical methodologies that can be applied to improve public health.
  
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+ 🔭 I’m currently working on network modeling for my dissertation and collaborating with pediatric hematologists and epidemiologists to optimize treatment protocols by
+     analyzing Electronic Health Record (EHR) data.
+- 🌱 I’m currently developing a Bayesian hierarchical modeling structure to flexibly relate brain networks to individual traits, leveraging Metropolis-Hastings and Gibbs-sampling simulation.
+- ⚡ Fun fact: I can make some mostly accurate animal sounds...:D
 
 <!--
 **roy-93/roy-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
